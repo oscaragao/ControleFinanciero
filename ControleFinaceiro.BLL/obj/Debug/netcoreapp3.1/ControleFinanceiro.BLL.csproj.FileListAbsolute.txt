@@ -1,0 +1,10 @@
+C:\Users\oscar\Desktop\ControleFinanceiro\ControleFinaceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.deps.json
+C:\Users\oscar\Desktop\ControleFinanceiro\ControleFinaceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+C:\Users\oscar\Desktop\ControleFinanceiro\ControleFinaceiro.BLL\bin\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
+C:\Users\oscar\Desktop\ControleFinanceiro\ControleFinaceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.csproj.AssemblyReference.cache
+C:\Users\oscar\Desktop\ControleFinanceiro\ControleFinaceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\Desktop\ControleFinanceiro\ControleFinaceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\ControleFinanceiro\ControleFinaceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.AssemblyInfo.cs
+C:\Users\oscar\Desktop\ControleFinanceiro\ControleFinaceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\ControleFinanceiro\ControleFinaceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.dll
+C:\Users\oscar\Desktop\ControleFinanceiro\ControleFinaceiro.BLL\obj\Debug\netcoreapp3.1\ControleFinanceiro.BLL.pdb
